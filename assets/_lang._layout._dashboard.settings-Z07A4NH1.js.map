@@ -1,0 +1,1 @@
+{"version":3,"file":"_lang._layout._dashboard.settings-Z07A4NH1.js","sources":["../../../src/routes/$lang._layout._dashboard.settings.tsx"],"sourcesContent":["import { Outlet } from \"@remix-run/react\";\nexport default function SettingsLayout() {\n  return <Outlet />;\n}\n"],"names":["SettingsLayout","Outlet"],"mappings":"+CACA,SAAwBA,GAAiB,CACvC,aAAQC,EAAA,EAAO,CACjB"}

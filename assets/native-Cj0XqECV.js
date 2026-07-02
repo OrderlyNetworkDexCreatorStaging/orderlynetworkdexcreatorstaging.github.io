@@ -1,0 +1,2 @@
+import{$ as e}from"./index-C5wONGcW.js";import"./custom-DCS55lpQ.js";import"./preload-helper-ckwbz45p.js";import"./sha256-DSgGRaKu.js";import"./QueryClientProvider-DmroiMd2.js";import"./index-B2hnoGx2.js";function t(){if(typeof WebSocket<"u")return WebSocket;if(typeof e.WebSocket<"u")return e.WebSocket;if(typeof window.WebSocket<"u")return window.WebSocket;if(typeof self.WebSocket<"u")return self.WebSocket;throw new Error("`WebSocket` is not supported in this environment")}const b=t();export{b as WebSocket};
+//# sourceMappingURL=native-Cj0XqECV.js.map

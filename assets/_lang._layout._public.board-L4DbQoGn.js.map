@@ -1,0 +1,1 @@
+{"version":3,"file":"_lang._layout._public.board-L4DbQoGn.js","sources":["../../../src/routes/$lang._layout._public.board.tsx"],"sourcesContent":["import { Outlet } from \"@remix-run/react\";\nexport default function BoardLayout() {\n  return <Outlet />;\n}\n"],"names":["BoardLayout","Outlet"],"mappings":"+CACA,SAAwBA,GAAc,CACpC,aAAQC,EAAA,EAAO,CACjB"}

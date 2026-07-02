@@ -1,0 +1,1 @@
+{"version":3,"file":"_lang._layout._public.markets-Dv1m5wcm.js","sources":["../../../src/routes/$lang._layout._public.markets.tsx"],"sourcesContent":["import { Outlet } from \"@remix-run/react\";\nexport default function MarketsLayout() {\n  return <Outlet />;\n}\n"],"names":["MarketsLayout","Outlet"],"mappings":"+CACA,SAAwBA,GAAgB,CACtC,aAAQC,EAAA,EAAO,CACjB"}
